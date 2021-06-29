@@ -1,0 +1,1 @@
+This project is about building AirBnB clone. It serves as the first step in future projects towards building full web application: the AirBnB clone.
