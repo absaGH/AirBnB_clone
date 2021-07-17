@@ -1,1 +1,17 @@
-In this project the front end of AirBnB is develped using HTML and CSS.
+<h1 align="center">HolbertonBnB</h1>
+<p align="center">An AirBnB clone.</p>
+
+---
+
+## Description :house:
+
+This part of the project focuses on developing the front end of HolbertonBnB 
+using HTML and CSS.
+
+### The main tasks of the Project
+
+The HolbertonBnB console supports the following commands:
+
+* **Create simple HTML static pages of the front end**
+* **Implement the design using CSS Style guides**
+* **Create Fake contents because no data is loaded from anything**
