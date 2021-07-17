@@ -3,14 +3,14 @@
 
 ---
 
-## Description :house:
+## Description
 
-This part of the project focuses on developing the front end of HolbertonBnB 
-using HTML and CSS.
+This is a continuation of the previous HolbertonBnB prject. In this part
+the focuse is on developing the front end of HolbertonBnB using HTML and CSS.
 
 ### The main tasks of the Project
 
-The HolbertonBnB console supports the following commands:
+The taks in this part HolbertonBnB project are:
 
 * **Create simple HTML static pages of the front end**
 * **Implement the design using CSS Style guides**
